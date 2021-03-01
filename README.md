@@ -16,3 +16,27 @@
     - int
     - float
     - string
+
+---
+# Part 2 (cooming soon)
+- conditionds
+    - boolean conditionds
+    - numberic conditions
+    - ‍‍`is` vs `==`
+        - `id()` function
+- some python keywords and usage
+- input function
+    - casting
+
+- advance datatype
+    - string 
+        - indexing
+        - function
+    - list
+        - functions
+        - indexing
+    - dict
+        - functions
+  
+    - dict vs list
+    - del 
