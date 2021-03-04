@@ -18,7 +18,7 @@
     - string
 
 ---
-# Part 2 (cooming soon)
+----
 - conditionds
     - boolean conditionds
     - numberic conditions
@@ -37,6 +37,6 @@
         - indexing
     - dict
         - functions
-  
+    - `in` keyword
     - dict vs list
     - del 
