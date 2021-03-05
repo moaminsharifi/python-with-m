@@ -1,4 +1,5 @@
 # python-with-m
+![assets/learning-python-with-m.png](assets/learning-python-with-m.png)
 
 # [Part 1](https://github.com/bigmpc/python-with-m/blob/main/Part_1/README.md)
 ## [Part 1 Notebook](https://github.com/bigmpc/python-with-m/blob/main/Part_1/notebook.ipynb)
@@ -22,7 +23,8 @@
 ---
 # [Part 2](https://github.com/bigmpc/python-with-m/blob/main/Part_2/README.md)
 ## [Part 2 Notebook](https://github.com/bigmpc/python-with-m/blob/main/Part_2/notebook.ipynb)
-----
+
+
 - conditionds
     - boolean conditionds
     - numberic conditions
@@ -33,14 +35,13 @@
     - casting
 
 - advance datatype
+    
+    - list
+        - indexing
+        - functions
     - string 
         - indexing
         - function
-    - list
-        - functions
-        - indexing
     - dict
         - functions
     - `in` keyword
-    - dict vs list
-    - del 
