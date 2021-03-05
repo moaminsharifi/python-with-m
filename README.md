@@ -1,6 +1,8 @@
 # python-with-m
 
-# [Part 1](https://github.com/bigmpc/python-with-m/blob/main/Part_1.md)
+# [Part 1](https://github.com/bigmpc/python-with-m/blob/main/Part_1/README.md)
+## [Part 1 Notebook](https://github.com/bigmpc/python-with-m/blob/main/Part_1/notebook.ipynb)
+
 - why python
 - how to install python
 - iterpter vs compiler
@@ -18,6 +20,8 @@
     - string
 
 ---
+# [Part 2](https://github.com/bigmpc/python-with-m/blob/main/Part_2/README.md)
+## [Part 2 Notebook](https://github.com/bigmpc/python-with-m/blob/main/Part_2/notebook.ipynb)
 ----
 - conditionds
     - boolean conditionds
