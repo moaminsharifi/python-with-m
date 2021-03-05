@@ -22,8 +22,7 @@
     - dict
         - functions
     - `in` keyword
-    - dict vs list
-    - del 
+
 
 ---
 ## conditionds:
