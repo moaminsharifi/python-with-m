@@ -1,4 +1,5 @@
 # python section 2
+## [Part 2 Notebook](https://github.com/bigmpc/python-with-m/blob/main/Part_2/notebook.ipynb)
 
 ----
 - conditionds

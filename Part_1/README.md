@@ -1,4 +1,5 @@
 # python section 1
+## [Part 1 Notebook](https://github.com/bigmpc/python-with-m/blob/main/Part_1/notebook.ipynb)
 
 ----
 - why python
