@@ -11,11 +11,10 @@
     - print variable(basic)
     - variable name in python (pep 8)
     
-    
 - basic datatype
     - int
     - float
-    - string
+    - string (just define)
 ---
 ## Why Python?
 1. Fast to Learn
@@ -32,7 +31,7 @@
 
 ---
 ## Interpreter vs Compiler
-![Compiler vs Interpreter: Complete Difference Between Compiler and Interpreter](assets/1_iterpter-vs-compiler.png)
+![Compiler vs Interpreter: Complete Difference Between Compiler and Interpreter](../assets/1_iterpter-vs-compiler.png)
 
 #### [Compiler vs Interpreter: Complete Difference Between Compiler and Interpreter](https://www.guru99.com/difference-compiler-vs-interpreter.html)
 
@@ -140,7 +139,7 @@ help(print)
 
 ## how to choose variable name?
 
-![meaningful variable name](assets/1_meaningful_variable_name.jpg)
+![meaningful variable name](../assets/1_meaningful_variable_name.jpg)
 
 ### .. but how?
 1. easy to read
@@ -151,7 +150,7 @@ help(print)
 Here is [PEP-8](https://www.python.org/dev/peps/pep-0008/) about code style.
 
 ### codecase
-![1_codecase](assets/1_codecase.png)
+![1_codecase](../assets/1_codecase.png)
 
 
 for variables and function use **Snake Case**
@@ -341,7 +340,7 @@ pi * (r ** 2)
 
 
 
-**there some problem you must know**
+**there is some problem you must know**
 
 
 ```python
